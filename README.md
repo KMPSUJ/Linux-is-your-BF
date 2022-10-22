@@ -10,12 +10,12 @@ An introduction to the Linux environment, winter term 2022/23 by KMPSUJ.
 1. What is Linux, and who needs it?
 2. Basic commands
 3. Text editor(s)
-4. A bit of syntax: |, \*, $, > etc.
+4. A bit of syntax: `|`, `*`, `$`, `>` etc.
 5. Simple script in bash
 6. Permissions and groups
 7. Environmental variables
-8. .profile (and similar files)
-9. User defined commands, aliases, and user's bin
+8. `.profile` (and similar files)
+9. User defined commands, aliases, and user's `bin`
 10. For interested: zsh and OhMyZsh 
 
 ## External materials

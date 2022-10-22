@@ -7,12 +7,12 @@ Kurs rozpocznie się od zupełnych podstaw, więc wszyscy niezależnie od umiej�
 1. Co to jest Linux i komu to potrzebne?
 2. Podstawowe komendy
 3. Edytory tekstowe
-4. Ważne elementy składni: |, *, $, > etc. 
+4. Ważne elementy składni: `|`, `*`, `$`, `>` etc. 
 5. Jak napisać własny skrypt w bash-u
 6. Uprawnienia i grupy
 7. Zmienne środowiskowe
-8. .profile (czyli jak wyglądać na profesjonalistę)
-9. Własne komendy, katalog bin
+8. `.profile` (czyli jak wyglądać na profesjonalistę)
+9. Własne komendy, katalog `bin`
 10. Dla zainteresowanych: zsh i OhMyZsh
 
 
