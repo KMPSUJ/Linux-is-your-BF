@@ -2,7 +2,7 @@
 
 > Wersja polska w pliku [README-PL.md](README-PL.md)
 > 
-> Są tam równirż **wstęne wymagania**.
+> Są tam również **wstęne wymagania**.
 
 An introduction to the Linux environment, winter term 2022/23 by KMPSUJ.
 
