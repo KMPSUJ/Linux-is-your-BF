@@ -20,3 +20,5 @@ An introduction to the Linux environment, winter term 2022/23 by KMPSUJ.
 
 ## External materials
 * [nice cheatsheet](https://sites.tufts.edu/cbi/files/2013/01/linux_cheat_sheet.pdf)
+* [bash_manual](https://www.gnu.org/software/bash/manual/bash.html)
+* [intro_to_linux_PL](http://siodmok.web.cern.ch/siodmok/ZarysLinuxa.pdf)
