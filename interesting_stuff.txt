@@ -1,4 +1,5 @@
 # make a tar | pass it to a server to compres | extract locally
+# befour running go to a different dir (scripts for example)
 (cd ..; tar -c data) | ssh USER@SERVER gzip | tar -xz
 
 # check disk usage of all direcories in data and sort it
