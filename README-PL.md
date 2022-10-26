@@ -31,3 +31,4 @@ Kurs rozpocznie się od zupełnych podstaw, więc wszyscy niezależnie od umiej�
 * [fajna ściąga](https://sites.tufts.edu/cbi/files/2013/01/linux_cheat_sheet.pdf)
 * [bash_manual](https://www.gnu.org/software/bash/manual/bash.html)
 * [wprowadzenie_do_linuxa_PL](http://siodmok.web.cern.ch/siodmok/ZarysLinuxa.pdf)
+* [PuTTY_ssh_client](https://www.putty.org/)
