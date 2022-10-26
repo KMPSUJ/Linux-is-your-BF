@@ -1,0 +1,9 @@
+# make a tar | pass it to a server to compres | extract locally
+(cd ..; tar -c data) | ssh USER@SERVER gzip | tar -xz
+
+# check disk usage of all direcories in data and sort it
+du -s data/* | sort
+
+# make sctatistics of your most used commands, finc the 10 most used
+history | awk '{print $2}' | sort | uniq -c | sort -r | head
+
